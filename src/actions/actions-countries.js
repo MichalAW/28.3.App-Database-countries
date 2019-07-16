@@ -31,9 +31,7 @@ export function getCountry(id) {
 export function searchCountries(searchText) {
     return {
         type: SEARCH_COUNTRIES,
-        search(event) {
-            this.props.dispatch(searchCountries(event.target.value));
-        }
+        searchText
     }
 }
 
