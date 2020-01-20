@@ -1,5 +1,5 @@
 {
-  "name": "28.3.App-test",
+  "name": "28.",
   "version": "1.0.0",
   "description": "",
   "main": "index.html",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MichalAW/28.3.App-test.git"
+    "url": "https://github.com/MichalAW/28.App-test.git"
   },
   "keywords": [],
   "author": "MichalAW michal.wanta@gmail.com",
